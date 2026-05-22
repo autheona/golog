@@ -1,0 +1,8 @@
+# Directories
+
+.idea/
+.run/
+
+# Files
+
+*.log
